@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I am a software engineering student and have already worked as a product owner and quality assurance. 
+I am a software engineering student and have worked as a product owner and in quality assurance. 
 
-I’m currently working on new languagens like React, Node.js, .NET and Angular;
-I’m currently learning more about JAVA;
-How to reach me: https://www.linkedin.com/in/karolinealvesfernandesdias/
-Fun fact: I can play guitar acoustic.
+At the moment, I am learning how to create a system for a small school that needs more control over the business finances. 
+
+Currently, I am learning more about JAVA and looking for a new job opportunity. 
+
+How to find me: [Linkedin](https://www.linkedin.com/in/karolinealvesfernandesdias/) 
+
+Fun fact: I play guitar acoustic and love learning.
