@@ -6,6 +6,8 @@ At the moment, I am learning how to create a system for a small school that need
 
 Currently, I am learning more about JAVA and looking for a new job opportunity. 
 
-How to find me: [Linkedin](https://www.linkedin.com/in/karolinealvesfernandesdias/) 
+How to find me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolinealvesfernandesdias/)
+
+Certifications:  [KMP](https://edu.kanban.university/user/134214/8/qualification-certificate/S2Fyb2xpbmUgQWx2ZXMgRmVybmFuZGVzIERpYXM6S2Fyb2xAMjAyNToxNzUyNjA0NzMz), [PSM I](https://www.credly.com/badges/0341f4a6-40f0-4768-97e4-758335d200c5) and [PSPO I](https://www.credly.com/badges/38200f79-552c-4af6-9700-5e8614ef0e86)
 
 Fun fact: I play guitar acoustic and love learning.
